@@ -1,5 +1,8 @@
 # 🎓 Student Performance & Placement Dashboard
 
+## 🎥 Demo Video
+▶️ Watch the project walkthrough here: https://drive.google.com/file/d/11R5vnSFNtq6o-PBKLCzqy4fjkgneZrKV/view?usp=drivesdk
+
 ## 📊 Project Overview
 This project analyzes student performance based on study hours, gender, and placement status using Power BI.
 
