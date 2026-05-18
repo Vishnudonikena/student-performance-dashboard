@@ -36,9 +36,6 @@ Built entirely in Power BI with Excel as the data source. No fluff, just finding
 
 ---
 
-## Dashboard Preview
-
-![Student Performance Dashboard](dashboard-preview.png)
 
 ---
 
@@ -89,9 +86,11 @@ If you're a recruiter or potential client — the [walkthrough video](https://dr
 
 ## Contact
 
+## Contact
+
 **Vishnu Sai Donikena**  
 📧 vishnusaidonikena@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/vishnusai-doniker)  
+💼 [LinkedIn](https://www.linkedin.com/in/vishnusai-donikena/)  
 🔍 Open to Data Analyst roles — remote & freelance
 
 ---
