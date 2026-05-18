@@ -1,3 +1,4 @@
+<img width="1464" height="701" alt="image" src="https://github.com/user-attachments/assets/aec74439-e45f-45db-90cc-6a298d83ebe0" />
 <div align="center">
 
 # 🎓 Student Performance & Placement Dashboard
@@ -37,13 +38,7 @@ Built entirely in Power BI with Excel as the data source. No fluff, just finding
 
 ## Dashboard Preview
 
-> *Add 1–2 screenshots of your actual dashboard here. Paste the image directly into the repo and reference it like this:*
-
-```markdown
-![Dashboard Overview](dashboard-preview.png)
-```
-
-A live preview beats a description every time. Recruiters won't download the `.pbix` — give them something to see immediately.
+![Student Performance Dashboard](dashboard-preview.png)
 
 ---
 
@@ -94,9 +89,9 @@ If you're a recruiter or potential client — the [walkthrough video](https://dr
 
 ## Contact
 
-**Vishnu Sai Donikena**
-📧 vishnusaidonikena@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/vishnusai-doniker)
+**Vishnu Sai Donikena**  
+📧 vishnusaidonikena@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/vishnusai-doniker)  
 🔍 Open to Data Analyst roles — remote & freelance
 
 ---
